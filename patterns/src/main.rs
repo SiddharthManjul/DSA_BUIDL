@@ -8,6 +8,7 @@ use patterns_code::{pattern_one,
     pattern_four,
     pattern_five,
     pattern_six,
+    pattern_seven,
 };
 
 fn main() {
@@ -17,6 +18,7 @@ fn main() {
     // pattern_three::executable_three();
     // pattern_four::executable_four();
     // pattern_five::executable_five();
-    pattern_six::executable_six();
+    // pattern_six::executable_six();
+    pattern_seven::executable_seven();
     
 }
